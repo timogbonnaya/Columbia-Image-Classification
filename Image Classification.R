@@ -1,6 +1,6 @@
 ##Author: Timothy Ogbonnaya
 ##Student Number: 219398221
-##Final Project for Math 3333
+
 
 
 
@@ -193,4 +193,5 @@ mean(glm_class != actual) * 100
 conf_logit$byClass["Sensitivity"] * 100
 
 # Specificity (True Negative Rate)
+
 conf_logit$byClass["Specificity"] * 100
